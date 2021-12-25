@@ -1,0 +1,4 @@
+git log 
+git add 
+git commit 
+頑張りましょう
